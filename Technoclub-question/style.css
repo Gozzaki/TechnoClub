@@ -1,0 +1,47 @@
+/* buatkan saya border warna pink */
+
+/* Path: index.html */
+/* buatkan saya border warna pink */
+
+body {
+    /*  */
+
+}
+
+.border h1 {
+    /* buatkan saya icon*/
+    background-color: black;
+    
+
+}
+
+.form input {
+    /* buatkan saya border radius dan background warna pink dan color font warna biru*/
+    border-radius: 10px;
+    background-color: pink;
+    color: blue;
+
+    
+
+}
+
+.form button {
+    /* buatkan saya tombol button ukuran besar warna pink dan color font warna biru*/
+    border-radius: 10px;
+    background-color: pink;
+    color: blue;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 20px;
+    
+    
+
+
+}
+
+
+
+
